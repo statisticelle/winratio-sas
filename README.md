@@ -1,7 +1,6 @@
 # winratio-sas
-SAS Macros to implement (stratified) win ratio analysis
 
-This folder contains SAS programs which can be used to perform unstratified and stratified win ratio analyses. 
+This repository contains SAS programs which can be used to perform unstratified and stratified win ratio analyses. 
 
 1. winratio.sas: Macro for calculating the win ratio and its variance using CDISC BDS TTE data structure, based on code originally provided by appendix of Dong et al. (Pharm Stat 2016).
 
