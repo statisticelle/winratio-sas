@@ -13,4 +13,4 @@ This repository contains SAS programs which can be used to perform unstratified 
 3. **winratio_ExampleProgram.sas**: Demonstrates application of %winratio and %StratifiedWR macros to one and two stratification factors.
 
 ---------------------------------------------------------------------------------------------------------------
-Correspondence: Heather Ribaudo (ribaudo@sdac.harvard.edu), Emma Davies Smith (esmith@sdac.harvard.edu)
+Correspondence: Heather Ribaudo (ribaudo at sdac.harvard.edu), Emma Davies Smith (esmith at sdac.harvard.edu)
